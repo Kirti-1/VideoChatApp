@@ -4,9 +4,9 @@ Video-chat-v1 is a video chat app that makes it easy to groups up with people yo
 
 ![IMG](./video-chat.png)
 
-Check out the live demo: https://video-chat-app-v1.herokuapp.com/
+Check out the live demo: https://videochatapp-production.up.railway.app/
 
-An article I wrote which explains how I build this: https://bit.ly/3wh0gyR
+<!-- An article I wrote which explains how I build this: https://bit.ly/3wh0gyR -->
 
 This app is build using NodeJS, Socket.io, and Peerjs(WebRTC)
 
